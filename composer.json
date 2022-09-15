@@ -1,0 +1,17 @@
+{
+    "name": "volochaev/qrcode",
+    "autoload": {
+        "psr-4": {
+            "Volochaev\\Qrcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Волочаев Даниил",
+            "email": "volochaev@techart.ru"
+        }
+    ],
+    "require": {
+        "khanamiryan/qrcode-detector-decoder": "^2.0"
+    }
+}
